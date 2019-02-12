@@ -111,7 +111,7 @@
         </sizepolicy>
        </property>
        <property name="text">
-        <string/>
+        <string>Test</string>
        </property>
        <property name="icon">
         <iconset>
