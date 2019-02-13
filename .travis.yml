@@ -10,4 +10,3 @@ install:
 script:
   - mkdir build && cd build
   - qmake ../ && make
-  - ./SmartAlarm
